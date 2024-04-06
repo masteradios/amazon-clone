@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800582615824",
+    "project_id": "mobilecomputingproject-f52a3",
+    "storage_bucket": "mobilecomputingproject-f52a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800582615824:android:d9796ece038ef8d114db95",
+        "android_client_info": {
+          "package_name": "com.example.hiten"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpwfpJyo1v_g3k20D-r6Oftm-whtNSSFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
